@@ -1,0 +1,4 @@
+[language-server.tinymist.config]
+typstExtraArgs = ["src/main.typ"]
+outputPath = "$root/target/$name"
+exportPdf = "onType"
